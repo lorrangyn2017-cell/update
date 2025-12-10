@@ -745,7 +745,7 @@ Data/Local/Eng/Item_eng.bmd 4dde3e38 688132
 Data/Local/Eng/JewelOfHarmonyOption_eng.bmd a424fb7f 5400
 Data/Local/Eng/JewelOfHarmonySmelt_eng.bmd f63a7a5b 557056
 Data/Local/Eng/MasterSkillTooltip_eng.bmd 6a924488 315396
-Data/Local/Eng/movereq_eng.bmd 29994cc4 3448
+Data/Local/Eng/movereq_eng.bmd cabad209 3532
 Data/Local/Eng/Npcname(eng).txt fdcb291b 16160
 Data/Local/Eng/QuestWords_eng.bmd 7909fcc9 273683
 Data/Local/Eng/Quest_eng.bmd 3a5ec355 148800
@@ -817,7 +817,7 @@ Data/Local/Por/Item_por.bmd 4dde3e38 688132
 Data/Local/Por/JewelOfHarmonyOption_por.bmd f81f3673 5400
 Data/Local/Por/JewelOfHarmonySmelt_por.bmd f63a7a5b 557056
 Data/Local/Por/MasterSkillTooltip_por.bmd b693cb0e 315396
-Data/Local/Por/movereq_por.bmd 29994cc4 3448
+Data/Local/Por/movereq_por.bmd cabad209 3532
 Data/Local/Por/Npcname(por).txt fdcb291b 16160
 Data/Local/Por/QuestWords_por.bmd 7909fcc9 273683
 Data/Local/Por/Quest_por.bmd 3a5ec355 148800
@@ -881,7 +881,7 @@ Data/Local/Spn/JewelOfHarmonyOption_spn.bmd 6eef8780 5400
 Data/Local/Spn/JewelOfHarmonySmelt_spn.bmd 980e9ed7 557056
 Data/Local/Spn/Kalimdor.OZT 0246701f 59808
 Data/Local/Spn/MasterSkillTooltip_spn.bmd 6a924488 315396
-Data/Local/Spn/movereq_spn.bmd 29994cc4 3448
+Data/Local/Spn/movereq_spn.bmd cabad209 3532
 Data/Local/Spn/Npcname(spn).txt 4a0fdd4c 15993
 Data/Local/Spn/QuestWords_spn.bmd 7909fcc9 273683
 Data/Local/Spn/Quest_spn.bmd 3a5ec355 148800
