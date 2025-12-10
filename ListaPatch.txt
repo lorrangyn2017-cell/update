@@ -1,7 +1,7 @@
 CEffect.dll 7b1e0daa 171008
 Main.dll 85b1a8e2 7758336
 main.exe 0dbfe6a4 3615232
-main.premium a4b6d9f7 2775700
+main.premium 4bc2df7c 2775700
 Matrix.Plugins 11eb02aa 1985712
 potion.dll 8712daf3 41984
 PS.dll bbb6a87e 11919624
